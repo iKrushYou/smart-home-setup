@@ -10,3 +10,4 @@
 
 ### Configure Tasmota
 - Update settings based on [config json](https://github.com/iKrushYou/smart-home-setup/blob/main/tasmota/treatlife-switch-config)
+- SwitchMode 3
