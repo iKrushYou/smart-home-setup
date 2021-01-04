@@ -6,7 +6,9 @@
 
 ### Update Firmware
 - OTA update to latest minimal (since regular is too large)
+http://ota.tasmota.com/tasmota/release/tasmota-minimum.bin
 - OTA update to latest regular build
+http://ota.tasmota.com/tasmota/release/tasmota.bin
 
 ### Configure Tasmota
 - Update settings based on [config json](https://github.com/iKrushYou/smart-home-setup/blob/main/tasmota/treatlife-switch-config)
