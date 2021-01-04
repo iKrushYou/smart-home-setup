@@ -6,7 +6,7 @@
 
 ### Update Firmware
 - OTA update to latest minimal (since regular is too large)
-http://ota.tasmota.com/tasmota/release/tasmota-minimum.bin
+http://ota.tasmota.com/tasmota/release/tasmota-minimal.bin
 - OTA update to latest regular build
 http://ota.tasmota.com/tasmota/release/tasmota.bin
 
