@@ -9,4 +9,4 @@
 - OTA update to latest regular build
 
 ### Configure Tasmota
-- Update settings based on config json
+- Update settings based on [config json](https://github.com/iKrushYou/smart-home-setup/blob/main/tasmota/treatlife-switch-config)
